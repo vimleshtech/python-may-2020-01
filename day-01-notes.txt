@@ -1,0 +1,106 @@
+Today's Topics
+===================
+-Overview of python
+-Python Environment
+-Python Syntax
+-Python Variable and Data type
+-Python input and output
+-Python format function 
+-Python Operator 
+
+
+Overview of python
+=======================
+- Python is open source (free) programing language 
+- Python is plateform  independent (works on all operating system)
+- Python is compiler and interpreter based language 
+- Python is easy to understand and learn
+- Python is indentation based language 
+
+Applications:
+	- Automation:
+			Web Scraping
+			File and folder automation
+			IT Infrastructure provision 
+	- DataScience 
+	- ML: Machine Learning
+	- Data Analytics :
+			 Reporting
+			 Graph and Visualization 
+	- AI
+	- DeepLearning
+
+	- Web Development
+		: Flask
+		: Django
+
+	- Testing
+		: Selenium
+	- IoT
+		: Cloud Computing
+		: BlockChain
+		: Ethical Hacking 
+		etc.			
+
+Python Environment
+==========================
+Version:
+	3.8
+	3.7
+	3.6
+	3.x
+	..
+	2.7
+	2.7x
+	...
+
+ Link: https://www.python.org/downloads/
+
+Python Interactive (console, command line, terminal)
+		>>>
+
+
+
+Python input and output
+============================
+input() 	 :read data from user
+		 : default input type is str 
+print()		: show data to user 
+		: print change the line automatically after print 
+
+
+Python Operator 
+===================
+Arithmetic:
+	+
+	-
+	*		2*3= 6
+	**		2**3 = 8
+	%		23%10 = 3 
+	/		23/10 = 2.3 (float)
+	//		23//10 = 2  (int)
+
+Conditional:
+	>
+	>=
+	<
+	<=
+	==
+	!=
+	in
+	not in 
+
+Conditional:
+	and
+	or
+
+Assignment Operator
+	=			
+	+=		a =a+1		or a+=1
+	-=
+	*=
+	/=
+	
+
+
+
